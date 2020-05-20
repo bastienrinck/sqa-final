@@ -6,7 +6,7 @@
 
 | Task                                                           	| Owner   	| Estimation    |
 |----------------------------------------------------------------	|---------	|------------   |
-| Create API server                                                	| Bastien 	| 2             |
+| Create API server                                                	| Bastien 	| 3             |
 | Create Survey entities                                           	| Bastien 	| 1             |
 | Create Survey controller                                         	| Bastien 	| 1             |
 | Create GET endpoint to get all surveys                        	| Bastien 	| 1          	|
