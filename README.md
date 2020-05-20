@@ -39,6 +39,10 @@ npm run test
 ### API
 See api documentation [here](./API.md).
 
+## Code review 
+
+See code review documentation [here](CODE_REVIEW.md)
+
 ## Topic
 As part of a Software Quality management plan for an organisation you have been asked to implement an example software project. This will be a reference guide for best practices that the rest of the team can refer to. The project will demonstrate the following topics:
 * Scrum sprint backlog and task estimation
