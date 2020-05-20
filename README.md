@@ -43,6 +43,18 @@ See api documentation [here](./API.md).
 
 See code review documentation [here](CODE_REVIEW.md)
 
+## Git flow
+
+See git flow documentation [here](GITFLOW.md)
+
+## TESTS 
+
+See tests documentation [here](TESTS.md)
+
+## Project backlog
+
+See project backlog [here](SPRINT_BACKLOG.md)
+
 ## Topic
 As part of a Software Quality management plan for an organisation you have been asked to implement an example software project. This will be a reference guide for best practices that the rest of the team can refer to. The project will demonstrate the following topics:
 * Scrum sprint backlog and task estimation
